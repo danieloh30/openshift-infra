@@ -15,6 +15,7 @@ packages:
   - ansible
   - net-tools
   - NetworkManager
+  - atomic
 
 users:
   - name: centos
